@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# Hidden files
+.*/
+
+# IDE files
+*.iml
+
